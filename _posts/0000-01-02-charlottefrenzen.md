@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dominus illuminet cor et spiritium nostrum
 Use the left arrow to go back!
